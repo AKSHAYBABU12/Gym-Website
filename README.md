@@ -2,21 +2,19 @@
 A modern and responsive gym website designed to promote fitness services and help users learn about gym facilities, workout programs, and membership options.
 This project was created to showcase a clean gym-themed website with simple navigation and an attractive layout.
 
-<img width="1680" height="1050" alt="Screenshot 2026-03-14 at 5 05 13 PM" src="https://github.com/user-attachments/assets/063d9c9e-a636-4330-8e9d-7994ecf882bf" />
-<img width="1680" height="908" alt="Screenshot 2026-03-14 at 5 05 32 PM" src="https://github.com/user-attachments/assets/78ca8e7b-dd3e-49f0-a8f1-6fdc34f77052" />
-## 🚀 Features
+<img width="1680" height="1050" alt="Screenshot 2026-03-28 at 6 04 41 PM" src="https://github.com/user-attachments/assets/59f7b0d6-567d-4ab2-a592-0d5610f3859e" />
+<img width="1680" height="1050" alt="Screenshot 2026-03-28 at 6 05 31 PM" src="https://github.com/user-attachments/assets/db5bf90c-edf6-4e79-a1dc-ef50cc786219" />
+<img width="1680" height="1050" alt="Screenshot 2026-03-28 at 6 04 22 PM" src="https://github.com/user-attachments/assets/d076f94c-da27-4ef1-9761-27c38f3c44b3" />
 
+## 🚀 Features
 - Responsive design (works on mobile, tablet, and desktop)
 - Attractive gym-themed homepage
 - About Us section describing the gym
 - Services section for different fitness programs
 - Contact section for inquiries
 - Clean and simple user interface
-
----
-
+  
 ## 🛠️ Technologies Used
-
 - HTML5
 - CSS3
 - JavaScript
